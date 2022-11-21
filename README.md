@@ -27,7 +27,7 @@
 
 4. If not, try again.
 
-    エーラなら、もう一度試します。
+    エラーなら、もう一度試します。
 
 5. Sometimes perform *STRANGE* magic.
 
